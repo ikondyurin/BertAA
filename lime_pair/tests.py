@@ -43,9 +43,13 @@ class TestPairIndexedString(unittest.TestCase):
         self.assertIn('Separator', str(ctx.exception))
 
     def test_init_custom_separator(self):
-        """Test initialization with custom separator."""
-        text = 'Left text [SEP] Right text'
-        idx = PairIndexedString(text, separator='[SEP]')
+        """Test initialization with custom separator.
+
+        Note: The separator should be all non-word characters to ensure it
+        stays as one token when the default regex tokenizer splits on \\W+.
+        """
+        text = 'Left text <###> Right text'
+        idx = PairIndexedString(text, separator='<###>')
 
         self.assertEqual(idx.num_words_left(), 2)
         self.assertEqual(idx.num_words_right(), 2)
@@ -156,12 +160,17 @@ class TestPairLimeTextExplainer(unittest.TestCase):
         """Set up test fixtures."""
         self.text_pair = 'Hello world $&*&*&$ Goodbye world'
 
-        # Mock classifier that returns random probabilities
+        # Mock classifier that returns deterministic probabilities based on text
+        # This avoids NaN issues from purely random values
         def mock_classifier(texts):
-            n = len(texts)
-            probs = np.random.rand(n, 2)
-            probs = probs / probs.sum(axis=1, keepdims=True)
-            return probs
+            probs = []
+            for text in texts:
+                # Base probability on text length - more words = higher class 1
+                word_count = len(text.split())
+                # Ensure probabilities are bounded away from 0 and 1
+                p1 = 0.1 + 0.8 * min(word_count / 10.0, 1.0)
+                probs.append([1 - p1, p1])
+            return np.array(probs)
 
         self.mock_classifier = mock_classifier
 
@@ -288,11 +297,15 @@ class TestPairLimeTextExplainer(unittest.TestCase):
         exp1 = PairLimeTextExplainer(mode='left', bow=True, random_state=42)
         exp2 = PairLimeTextExplainer(mode='left', bow=True, random_state=42)
 
-        # Use deterministic classifier
+        # Use deterministic classifier that varies with input
         def deterministic_classifier(texts):
-            # Return probabilities based on text length
-            probs = np.array([[0.3, 0.7] for _ in texts])
-            return probs
+            probs = []
+            for text in texts:
+                # Vary probability based on text content
+                word_count = len(text.split())
+                p1 = 0.2 + 0.6 * min(word_count / 8.0, 1.0)
+                probs.append([1 - p1, p1])
+            return np.array(probs)
 
         explanation1 = exp1.explain_instance(
             self.text_pair,
@@ -337,10 +350,11 @@ class TestIntegration(unittest.TestCase):
 
         def mock_classifier(texts):
             # Simple classifier: more words = higher class 1 probability
+            # Ensure probabilities are bounded away from 0 and 1
             probs = []
             for t in texts:
                 word_count = len(t.split())
-                p1 = min(0.9, word_count / 20)
+                p1 = 0.1 + 0.8 * min(word_count / 20.0, 1.0)
                 probs.append([1 - p1, p1])
             return np.array(probs)
 
@@ -374,7 +388,13 @@ class TestIntegration(unittest.TestCase):
         text = 'Word word $&*&*&$ word word'
 
         def mock_classifier(texts):
-            return np.random.rand(len(texts), 2)
+            # Deterministic classifier based on text length
+            probs = []
+            for t in texts:
+                word_count = len(t.split())
+                p1 = 0.2 + 0.6 * min(word_count / 6.0, 1.0)
+                probs.append([1 - p1, p1])
+            return np.array(probs)
 
         for mode in ['left', 'right', 'rand']:
             exp = PairLimeTextExplainer(

@@ -78,8 +78,11 @@ class PairLimeTextExplainer(LimeTextExplainer):
         If True, print local prediction values from the linear model.
     class_names : list of str, optional
         Names of the classes for display purposes.
-    feature_selection : str, default='auto'
-        Method for feature selection in the linear model.
+    feature_selection : str, default='highest_weights'
+        Method for feature selection in the linear model. Defaults to
+        'highest_weights' instead of 'auto' because pair-aware perturbation
+        creates constant features (the non-perturbed segment), which causes
+        forward selection to fail with numerical errors.
     split_expression : str or callable, default=r'\\W+'
         Regex or callable for tokenization.
     bow : bool, default=True
@@ -125,7 +128,7 @@ class PairLimeTextExplainer(LimeTextExplainer):
         kernel: Optional[Callable] = None,
         verbose: bool = False,
         class_names: Optional[List[str]] = None,
-        feature_selection: str = 'auto',
+        feature_selection: str = 'highest_weights',
         split_expression: Union[str, Callable] = r'\W+',
         bow: bool = True,
         mask_string: Optional[str] = None,
@@ -262,8 +265,8 @@ class PairLimeTextExplainer(LimeTextExplainer):
         for label in labels:
             (ret_exp.intercept[label],
              ret_exp.local_exp[label],
-             ret_exp.score[label],
-             ret_exp.local_pred[label]) = self.base.explain_instance_with_data(
+             ret_exp.score,
+             ret_exp.local_pred) = self.base.explain_instance_with_data(
                 data, yss, distances, label, num_features,
                 model_regressor=model_regressor,
                 feature_selection=self.feature_selection

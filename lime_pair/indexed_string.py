@@ -241,23 +241,32 @@ class PairIndexedString:
         """Check if the string has a non-empty right segment."""
         return len(self.inverse_vocab_right) > 0
 
-    def word(self, idx: int, segment: str = 'left') -> str:
+    def word(self, idx: int, segment: Optional[str] = None) -> str:
         """
         Return the word at the given vocabulary index.
 
         Parameters
         ----------
         idx : int
-            Vocabulary index.
-        segment : str, default='left'
+            Vocabulary index. If segment is None, this is treated as a global
+            index where 0 to sep-1 are left segment, sep to num_words-1 are right.
+        segment : str, optional
             Which segment's vocabulary to use ('left' or 'right').
+            If None, automatically determines based on idx.
 
         Returns
         -------
         str
             The word at the given index.
         """
-        if segment == 'left':
+        if segment is None:
+            # Auto-detect segment based on global index
+            if idx < self.separator_index:
+                return self.inverse_vocab_left[idx]
+            else:
+                right_idx = idx - self.separator_index
+                return self.inverse_vocab_right[right_idx]
+        elif segment == 'left':
             return self.inverse_vocab_left[idx]
         elif segment == 'right':
             return self.inverse_vocab_right[idx]
