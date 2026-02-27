@@ -1,2 +1,16 @@
 __pycache__/
 *.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large model/data files (should live on external storage)
+*.pt
+*.bin
+*.arrow
+Data/45000/
+Data/pan20-authorship-verification-training-small.jsonl
+
+# OS junk
+.DS_Store
+._*

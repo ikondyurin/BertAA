@@ -1,0 +1,1600 @@
+Doctor Who: 312
+Avengers: 280
+Twilight: 275
+Criminal Minds: 270
+Supernatural: 267
+X-Men: The Movie: 266
+Pirates of the Caribbean: 266
+Harry Potter: 265
+Once Upon a Time: 265
+Vampire Diaries: 264
+Hetalia - Axis Powers: 262
+Lord of the Rings: 262
+Power Rangers: 262
+Legend of Zelda: 259
+Fruits Basket: 257
+Pokémon: 254
+Sonic the Hedgehog: 253
+Sherlock: 250
+Star Wars: 247
+Yu-Gi-Oh: 245
+Percy Jackson and the Olympians: 245
+RWBY: 245
+Inuyasha: 236
+Phantom of the Opera: 236
+Glee: 236
+Final Fantasy VII: 235
+Transformers/Beast Wars: 233
+CSI: New York: 232
+Naruto: 231
+Walking Dead: 231
+Ouran High School Host Club: 230
+Hunger Games: 228
+Teen Wolf: 227
+Teen Titans: 226
+Mega Man: 225
+Kuroshitsuji: 224
+Gilmore Girls: 224
+Avatar: Last Airbender: 223
+Chronicles of Narnia: 223
+Bones: 223
+Bleach: 222
+Kingdom Hearts: 219
+Stargate: Atlantis: 216
+Charmed: 216
+Batman Begins/Dark Knight: 214
+My Little Pony: 213
+House, M.D.: 212
+Batman: 211
+Super Smash Brothers: 211
+Merlin: 211
+CSI: 205
+Star Trek: 2009: 203
+Digimon: 202
+Evangelion: 202
+Frozen: 202
+Young Justice: 201
+Captain America: 201
+Danny Phantom: 200
+Grey's Anatomy: 200
+Law and Order: SVU: 200
+Smallville: 199
+Resident Evil: 198
+Transformers: 198
+Labyrinth: 197
+Attack on Titan/進撃の巨人: 194
+Fullmetal Alchemist: 193
+Stargate: SG-1: 192
+Fire Emblem: 191
+X-Men: 191
+Angel: 186
+Castle: 186
+Arrow: 186
+Rise of the Guardians: 183
+Ranma: 183
+Game of Thrones: 182
+Code Geass: 181
+One Tree Hill: 181
+One Piece: 179
+Gundam Wing/AC: 179
+Torchwood: 178
+X-Files: 176
+Vampire Knight: 175
+X-Men: Evolution: 174
+How to Train Your Dragon: 173
+Invader Zim: 173
+Katekyo Hitman Reborn!: 172
+Inception: 172
+Sherlock Holmes: 171
+Heroes: 169
+Powerpuff Girls: 169
+Fairy Tail: 169
+Inheritance Cycle: 164
+Assassin's Creed: 163
+Code Lyoko: 162
+Hellsing: 162
+Persona Series: 160
+Warcraft: 160
+Gravity Falls: 158
+Total Drama series: 158
+StarTrek: Enterprise: 157
+True Blood: 157
+Card Captor Sakura: 156
+General Hospital: 156
+Mortal Instruments: 153
+Hawaii Five-0: 153
+Final Fantasy X: 152
+Fate/stay night: 152
+Slayers: 151
+Gravitation: 149
+Kuroko no Basuke/黒子のバスケ: 149
+Adventure Time with Finn and Jake: 149
+Gossip Girl: 149
+Victorious: 149
+South Park: 147
+Psych: 147
+Peter Pan: 146
+StarTrek: Voyager: 146
+100: 145
+Mighty Ducks: 145
+Newsies: 143
+Warriors: 142
+Pretty Little Liars: 142
+Sword Art Online/ソードアート・オンライン: 142
+Mummy: 141
+Final Fantasy VIII: 140
+Elder Scroll series: 139
+O.C.: 139
+Downton Abbey: 139
+Undertale: 138
+Numb3rs: 138
+Devil May Cry: 137
+Saiyuki: 136
+Tenchi Muyo: 135
+Gundam Seed: 135
+Homestuck: 134
+Fushigi Yuugi: 134
+Star Fox: 134
+Miraculous: Tales of Ladybug & Cat Noir: 133
+Cowboy Bebop: 133
+Ghost Hunt: 133
+High School DxD/ハイスクールD×D: 133
+CSI: Miami: 133
+Artemis Fowl: 133
+Star Wars: The Clone Wars: 131
+Final Fantasy IX: 130
+Phoenix Wright: Ace Attorney: 129
+Durarara!!/デュラララ!!: 128
+Ben 10: 127
+Beyblade: 127
+Codename: Kids Next Door: 126
+Harvest Moon: 126
+Spirited Away: 126
+Agents of S.H.I.E.L.D.: 126
+Detective Conan/Case Closed: 125
+Fairly OddParents: 124
+Shugo Chara!: 124
+Ironman: 124
+ER: 124
+A song of Ice and Fire: 123
+Fairy Tales: 122
+West Wing: 122
+Weiss Kreuz: 121
+Free! - Iwatobi Swim Club: 121
+Flash: 121
+Winx Club: 121
+Left 4 Dead: 121
+Robin Hood BBC: 121
+Escaflowne: 120
+Animorphs: 120
+Dark Angel: 120
+James Bond: 119
+Ed, Edd n Eddy: 119
+Aliens/Predator: 118
+Teenage Mutant Ninja Turtles: 118
+Steven Universe: 118
+Mortal Kombat: 118
+Primeval: 117
+Tsubasa Chronicle: 117
+StarTrek: The Next Generation: 117
+Avatar: 116
+Maximum Ride: 116
+Alex Rider: 115
+Silent Hill: 115
+Sons of Anarchy: 115
+Kung Fu Panda: 114
+Soul Calibur: 114
+Alias: 114
+Firefly: 113
+Wreck-It Ralph: 113
+Dangan Ronpa Kibou no Gakuen to Zetsubou no Koukousei: 112
+Fast and the Furious: 112
+NCIS: Los Angeles: 112
+King Arthur: 112
+Haruhi Suzumiya series: 111
+Friends: 111
+Alice in Wonderland, 2010: 111
+Matrix: 110
+White Collar: 109
+Degrassi: 109
+Roswell: 109
+Xiaolin Showdown: 108
+Grimm: 108
+Xena: Warrior Princess: 108
+Jurassic Park: 107
+A Nightmare on Elm Street: 107
+Love Hina: 106
+American Horror Story: 106
+Underworld: 106
+Treasure Planet: 106
+Wizards of Waverly Place: 106
+Van Helsing: 105
+National Treasure: 105
+Mutant X: 105
+Beauty and the Beast: 105
+Yami no Matsuei: 104
+Voltron: Legendary Defender: 104
+Life With Derek: 104
+Hannah Montana: 104
+Tangled: 104
+Ronin Warriors: 103
+Tekken: 103
+M*A*S*H: 103
+Chrono Trigger: 102
+League of Legends: 102
+Suite Life series: 102
+Hellboy: 102
+Loonatics Unleashed: 102
+Sky High: 101
+Girl Meets World: 101
+Spyro the Dragon: 101
+Het Huis Anubis/House of Anubis: 100
+Incredibles: 100
+Final Fantasy I-VI: 100
+Days of Our Lives: 100
+Scooby Doo: 100
+Hunchback of Notre Dame: 99
+Skip Beat!: 99
+Batman the Animated Series: 99
+Zoids: 99
+Law and Order: CI: 99
+Final Fantasy XIII: 99
+Leverage: 99
+Hannibal: 99
+Highlander: 98
+DC Superheroes: 98
+Pitch Perfect: 98
+Megami Tensei: 98
+RENT: 98
+Four Brothers: 97
+Tokyo Mew Mew: 96
+Superman: 96
+Boondock Saints: 96
+Warhammer: 96
+Kyo kara Maoh!/今日からマ王！: 95
+Full Metal Panic: 95
+Sweeney Todd: 95
+Big Bang Theory: 94
+Grand Theft Auto: 94
+Puella Magi Madoka Magica/魔法少女まどか★マギカ: 94
+Les Misérables: 94
+Marvel: 94
+Final Fantasy XII: 94
+Fantastic 4: 93
+Veronica Mars: 93
+Les Miserables: 93
+DarkWing Duck: 93
+Austin & Ally: 92
+Suits: 92
+Gakuen Alice: 92
+Negima! Magister Negi Magi/魔法先生ネギま！: 92
+Jak and Daxter: 92
+Being Human: 91
+Castlevania: 91
+Thunderbirds: 91
+Prison Break: 91
+One Life To Live: 91
+Casualty: 91
+Dead or Alive: 91
+Five Nights at Freddy´s: 91
+Vampire Academy: 90
+Fosters: 90
+Wicked: 90
+Burn Notice: 90
+Sookie Stackhouse/Southern Vampire Mysteries: 90
+Mission: Impossible: 90
+Babylon 5: 89
+Originals: 89
+JAG: 89
+MI-5/Spooks: 89
+Law and Order: 89
+Life is Strange: 89
+Sly Cooper: 88
+Team Fortress 2: 88
+Family Guy: 88
+Highschool of the Dead: 88
+Hyperdimension Neptunia: 88
+Great Mouse Detective: 88
+Big Hero 6: 87
+Lilo & Stitch: 87
+Penguins of Madagascar: 87
+House of Night: 87
+Guardians of the Galaxy: 87
+Legend of Dragoon: 86
+Dynasty Warriors: 86
+Little Mermaid: 86
+Musketeers: 86
+Trigun: 86
+Metroid: 86
+Ashes to Ashes: 86
+Covert Affairs: 86
+Daredevil: 86
+Cars: 86
+Breakfast Club: 86
+Lucifer: 86
+Tomb Raider: 86
+Lemonade Mouth: 85
+Gorillaz: 85
+Suikoden: 85
+Utena: 85
+Okami: 85
+Black Lagoon: 85
+Mai HiME: 85
+K-ON!/けいおん！: 85
+Uncharted series: 85
+.hack/SIGN: 85
+Junjō Romantica: 85
+Emergency: 84
+Tudors: 84
+Without a Trace: 84
+Pacific Rim: 84
+Major Crimes: 84
+Scrubs: 84
+W.I.T.C.H.: 83
+G. I. Joe: 83
+Hunter X Hunter: 83
+Moonlight: 83
+Lost Boys: 83
+Magnificent Seven: 83
+Yuri!!! on Ice: 82
+Alice, 2009: 82
+Princess Tutu: 82
+Batman Beyond: 82
+Reign: 82
+24: 82
+Charlie and the Chocolate Factory: 82
+Back to the Future: 82
+Monsters Inc.: 82
+Trinity Blood: 81
+Descendants, 2015: 81
+He-Man: 81
+Dawson's Creek: 81
+Person of Interest: 81
+Flashpoint: 81
+Lucky Star: 81
+H2O: Just Add Water: 81
+Diabolik Lovers/ディアボリックラヴァーズ: 80
+Dukes of Hazzard: 80
+Tales of the Abyss: 80
+Blue Exorcist/青の祓魔師: 80
+Forgotten Realms: 80
+Terminator: 80
+StarCraft: 80
+Touhou Project: 79
+Rookie Blue: 79
+Loud House: 79
+Bakugan Battle Brawlers: 79
+Ghost Whisperer: 79
+Elfen Lied: 79
+Alpha and Omega: 79
+Redwall: 79
+Storm Hawks: 78
+Hikaru no Go: 78
+Witch Hunter Robin: 78
+Kick-Ass: 78
+All My Children: 78
+Frasier: 78
+Dresden Files: 78
+Night at the Museum: 78
+Bonanza: 77
+Regular Show: 77
+Ninjago: 77
+Batman: Arkham Asylum: 77
+That '70s Show: 77
+Inkheart: 77
+Chicago Fire: 77
+Disgaea: 77
+FAKE: 76
+Chrono Crusade: 76
+Stranger Things, 2016: 76
+Revolution: 76
+Falling Skies: 76
+Mulan: 76
+Smurfs: 76
+Minecraft: 76
+Stand By Me: 76
+Angel Beats!/エンジェルビーツ: 76
+In Plain Sight: 75
+Elementary: 75
+Queer as Folk: 75
+BlazBlue: 75
+Totally Spies: 75
+SWAT Kats: 75
+Good Wife: 75
+Sanctuary: 75
+Friday the 13th: 75
+Jimmy Neutron: 75
+SeaQuest: 75
+Discworld: 75
+SpongeBob SquarePants: 75
+inFAMOUS: 75
+Vampire Hunter D: 75
+Yu-Gi-Oh! Arc-V: 75
+Samurai Jack: 74
+Star Wars Rebels: 74
+Tokyo Ghoul/東京喰種トーキョーグール: 74
+Kickin' It: 74
+Generator Rex: 74
+Lizzie McGuire: 74
+Halloween: 74
+Lois and Clark: 74
+Fright Night: 74
+Red Dwarf: 74
+Land Before Time: 74
+Slam Dunk: 73
+Nightwing: 73
+Dungeons and Dragons: 73
+Dragon Quest Series: 73
+Supergirl: 73
+GALS!: 73
+Familiar of Zero: 73
+Rugrats/All Grown Up!: 73
+Fifty Shades Trilogy: 73
+Witchblade: 73
+Kamen Rider: 73
+Dark Shadows: 73
+Girls und Panzer/ガールズ&パンツァー: 73
+Beetlejuice: 73
+Tales of Vesperia: 73
+Toaru Majutsu no Index/とある魔術の禁書目録: 73
+Legends of Tomorrow: 72
+Diablo: 72
+Riverdale: 72
+Metal Gear: 72
+Toy Story: 72
+Scarecrow and Mrs. King: 72
+Farscape: 72
+Zorro: 72
+Wild Arms: 71
+Tron: 71
+Akame ga Kiru/アカメが斬る: 71
+Ragnarok Online: 71
+Ugly Betty: 71
+Waterloo Road: 71
+Gotham: 71
+Inglourious Basterds: 71
+Love Live! School idol project: 71
+Simpsons: 70
+Tinkerbell: 70
+Magic Knight Rayearth/魔法騎士レイアース: 70
+Oh My Goddess!: 70
+Dexter: 70
+Morganville Vampires: 70
+One Punch Man/ワンパンマン: 70
+Saints Row: 70
+Magi/マギ: 70
+Crash Bandicoot: 70
+Princess Mononoke: 70
+Lost Girl: 70
+Jhonen Vasquez: 70
+Haven: 70
+Inside Out: 70
+Monster High: 70
+Prince of Persia: 70
+Samurai Champloo: 70
+Infinite Stratos/IS: 70
+Static Shock: 69
+Final Fantasy XIII-2: 69
+Ghost Busters (Real/Extreme): 69
+Howl's Moving Castle: 69
+Clannad: 69
+Uta no Prince-sama: 69
+Shadowhunters: 69
+Sekirei: 69
+Destiny: 69
+Big O: 69
+Azumanga Daioh: 69
+Calvin & Hobbes: 69
+Ice Age: 69
+Blade: 69
+Battle Royale: 69
+Dishonored: 69
+Last of Us: 69
+Megamind: 68
+Medabots: 68
+El Tigre: 68
+Wolfblood: 68
+Kirby: 68
+Vandread: 68
+Maria-sama ga Miteru: 68
+Monk: 68
+Everwood: 68
+Spartacus: Blood and Sand: 68
+Boy Meets World: 68
+Super Robot Monkey Team: 68
+Hakuōki/薄桜鬼: 68
+Final Fantasy XV: 68
+Good Omens: 68
+Indiana Jones: 68
+Resident Evil series: 68
+Kill la Kill/ キルラキル: 68
+Robert Langdon series: 67
+Eureka: 67
+Constantine: 67
+Office: 67
+Sound of Music: 67
+Once and Again: 67
+10th Kingdom: 67
+Until Dawn: 67
+Mediator: 66
+Furi Kuri: FLCL: 66
+Repo! The Genetic Opera: 66
+Gintama: 66
+Diana Wynne Jones: 66
+Gone with the Wind: 66
+Deadpool: 66
+Big Valley: 66
+Scorpion: 66
+Band of Brothers: 66
+Infernal Devices, Cassandra Clare: 66
+Full House: 66
+9: 65
+Saint Seiya: 65
+Flame of Recca: 65
+Ella Enchanted: 65
+Outlaw Star: 65
+Bloody Roar: 65
+Series Of Unfortunate Events: 65
+Fringe: 65
+Beverly Hills 90210: 65
+Chicago PD: 65
+Coraline: 65
+Silence of the Lambs/Hannibal: 65
+Watchmen: 65
+Community: 65
+Faking It: 65
+Lie to Me: 65
+Red Eye: 65
+Far Cry: 65
+V for Vendetta: 65
+Borderlands: 65
+Rocky Horror: 65
+Strike Witches: 65
+Despicable Me: 64
+Randy Cunningham: 9th Grade Ninja: 64
+K: 64
+Suicide Squad: 64
+Kid Icarus: 64
+Worm: 64
+My Babysitter's a Vampire: 64
+Fantastic Beasts and Where to Find Them: 64
+Recess: 64
+Scandal: 64
+Dead Poets Society: 64
+Warehouse 13: 64
+Peacemaker Kurogane: 64
+Balto: 64
+Samurai Warriors: 64
+Justified: 64
+Sengoku Basara/戦国BASARA: 64
+Trauma Center: 64
+Will and Grace: 64
+Guild Wars: 64
+Lord of the Flies: 64
+Little Witch Academia/リトル ウィッチ アカデミア: 64
+Kantai Collection: 64
+Robotech/Macross: 63
+Edward Scissorhands: 63
+S.A: 63
+Night World series: 63
+Librarians, 2014: 63
+Oban Star-Racers: 63
+JoJo's Bizarre Adventure: 63
+Secret Saturdays: 63
+Natsume Yūjin-Chō: 63
+07-Ghost: 63
+Gundam 00: 63
+Cardfight!! Vanguard/CARDFIGHT!! ヴァンガード: 63
+Pretty Cure: 63
+Angelic Layer: 63
+Command & Conquer: 63
+Home & Away: 63
+Animal Crossing: 63
+Real Adventures of Jonny Quest: 63
+Godzilla: 63
+Final Fantasy XI: 63
+Silmarillion: 63
+Magic: The Gathering: 63
+DuckTales: 63
+Ranger's Apprentice: 62
+Chrono Cross: 62
+Cat Returns: 62
+Corpse Party: 62
+Amazing World of Gumball: 62
+Strawberry Panic!: 62
+McLeod’s Daughters: 62
+Darren Shan Saga/Cirque Du Freak: 62
+Quantum Leap: 62
+Orange Is the New Black: 62
+Terminator: Sarah Connor Chronicles: 62
+Scream: 62
+Pet Shop of Horrors: 62
+Sentinel: 62
+Bourne series: 62
+Baldur's Gate: 62
+Sorcerer's Apprentice, 2010: 62
+Expendables: 62
+Joker/Clover/Heart no Kuni no Alice: 62
+Advance Wars: 62
+Phil Of The Future: 62
+Dark Souls: 62
+Kaleido Star: 62
+Earthbound: 61
+Wallflower: 61
+Akatsuki no Yona/暁のヨナ: 61
+Gokusen: 61
+Patriot: 61
+Moulin Rouge: 61
+Hercules: The Legendary Journeys: 61
+13 Ghosts: 61
+Final Fantasy: Tactics: 61
+Professor Layton: 61
+Prototype: 61
+Zatch Bell: 61
+Hairspray: 60
+Secret/Legend of Mana: 60
+Sue Thomas: FB Eye: 60
+G.I. Joe: The Rise of Cobra: 60
+7th Heaven: 60
+Story of Tracy Beaker: 60
+Looney Tunes: 60
+Charlie Bone: 60
+Host: 60
+Megami Kouhosei: 60
+IT: 60
+ThunderCats: 59
+Vampire Kisses: 59
+Revenge: 59
+Hamtaro: 59
+Vikings: 59
+Horatio Hornblower: 59
+Slender: 59
+Across the Universe: 59
+Little Vampire: 59
+She's the Man: 59
+Call of Duty: 59
+21 Jump Street: 59
+Tiny Toon Adventures: 59
+Yu-Gi-Oh! ZEXAL: 59
+Brothers Conflict/ブラコン: 59
+Pucca: 58
+Boys Before Flowers/꽃보다 남자: 58
+La Corda D'Oro: 58
+MÄR: 58
+Guiding Light: 58
+Mindy Project: 58
+Private Practice: 58
+Newsroom: 58
+Seraph of the End/終わりのセラフ: 58
+Sgt. Frog/ケロロ軍曹: 58
+xxxHOLiC: 58
+Metalocalypse: 58
+Once Upon a Time in Mexico: 58
+EastEnders: 58
+Chip and Dale's Rescue Rangers: 58
+Fatal Frame: 58
+Maple Story: 58
+Animaniacs: 58
+Neverwinter Nights: 58
+Shingeki no Kyojin/進撃の巨人: 58
+Date A Live/デート・ア・ライブ: 58
+White Wolf: 58
+X/1999: 57
+Assassination Classroom/暗殺教室: 57
+Ace of Diamond/ダイヤのA: 57
+Kamikaze Kaitou Jeanne: 57
+Anne of Green Gables series: 57
+MacGyver: 57
+Chronicles of Vladimir Tod: 57
+Watership Down: 57
+Birds Of Prey: 57
+Wolf Lake: 57
+Desperate Housewives: 57
+In A Heartbeat: 57
+Fallen, Lauren Kate: 57
+Adventures of Tintin: 57
+Bridge to Terabithia: 57
+Terra Nova: 57
+Walker, Texas Ranger: 57
+Mighty Boosh: 57
+Man From UNCLE: 57
+Red Dead Redemption: 57
+Shake It Up!: 57
+Alias Smith & Jones: 57
+Invisible Man: 57
+My Life as a Teenage Robot: 57
+Gunslinger Girl: 57
+Legacy of Kain: 57
+Valkyria Chronicles: 57
+Fillmore: 56
+Legal Drug: 56
+Samurai 7: 56
+Xenogears: 56
+Breath of Fire: 56
+Skies of Arcadia: 56
+G-Gundam: 56
+Half-Life: 56
+Clamp: 56
+Thief Lord: 56
+Seven Deadly Sins/七つの大罪: 56
+DC Elseworlds: 56
+Valdemar universe: 56
+Ultimate Marvel: 56
+Captain Planet: 56
+Higher Ground: 56
+Nine Lives of Chloe King: 56
+Great Gatsby: 56
+Ghost in the Shell: 56
+Dragon Knights: 56
+Angel Sanctuary: 56
+Outlast: 56
+Friday Night Lights: 56
+Noragami/ノラガミ: 56
+Flight 29 Down: 56
+Black Cat: 56
+Sims: 56
+Nikita: 56
+No. 6: 56
+Guardians of Ga'Hoole: 55
+Bolt: 55
+Planet of the Apes: 55
+Thomas the Tank Engine: 55
+Class of the Titans: 55
+Cinderella: 55
+Anastasia: 55
+Final Fantasy: Tactics Advance: 55
+Bill: 55
+Rick and Morty: 55
+Grojband: 55
+Baby Sitters Club: 55
+Young Riders: 55
+Jem: 55
+School Rumble: 55
+Cold Case: 55
+Death Sentence: 55
+Bully: 55
+Forbidden Game series: 55
+Hush, Hush: 55
+Futurama: 55
+Gears of War: 55
+Coronation Street: 55
+Dragon Ball GT: 55
+Sofia the First: 54
+Shrek: 54
+Dead Space: 54
+Arthur: 54
+Gods Eater Burst: 54
+39 Clues: 54
+Camp Lazlo: 54
+Mercy Thompson series: 54
+Boondocks: 54
+Gate - Jietai Kare no Chi nite, Kaku Tatakeri: 54
+Kamichama Karin: 54
+Wizard of Oz: 54
+Diary of a Wimpy Kid: 54
+School of Rock: 54
+St. Trinian's: 54
+Secret Window: 54
+Doom: 54
+Underland Chronicles: 54
+Young Avengers: 54
+Bionicle: 54
+Count Cain: God Child: 54
+My Candy Love: 54
+Happy Tree Friends: 54
+Legion of Super Heroes: 53
+NiGHTS: 53
+King of Fighters: 53
+Protector of the Small Quartet: 53
+Now You See Me: 53
+X-Com: 53
+Wentworth: 53
+Gemma Doyle Trilogy: 53
+Reba: 53
+Big Wolf on Campus: 53
+Touched by an Angel: 53
+Claymore: 53
+Chobits: 53
+Dark-Hunter series: 53
+Young Dracula: 53
+Adventures of Sinbad: 53
+Misfits, 2009: 53
+Gilligan's Island: 53
+Selection Trilogy, Kiera Cass: 53
+Overlord/オーバーロード: 53
+As the World Turns: 53
+Monster Hunter: 53
+Care Bears: 53
+Witcher: 53
+Hollyoaks: 52
+Bartimaeus Trilogy: 52
+Sorcerer Hunters: 52
+Sweet Valley series: 52
+Forever: 52
+Shokugeki no Soma/食戟のソーマ: 52
+David Eddings: 52
+My So Called Life: 52
+Deltora Quest: 52
+Blood Ties: 52
+Life on Mars: 52
+Smash: 52
+Timeless: 52
+Agent Carter: 52
+Earth: Final Conflict: 52
+Wynonna Earp: 52
+Wild Kratts: 52
+Finder Series: 52
+Blindspot: 52
+Crow: 52
+Gurren Lagann: 52
+How to Rock: 52
+Robin Hood: 52
+His Dark Materials: 52
+Hotel Transylvania: 52
+Miss Fisher's Murder Mysteries: 52
+Blue Heelers: 52
+City of Heroes: 52
+Black★Rock Shooter: 52
+Nurarihyon no Mago/ぬらりひょんの孫: 52
+WordGirl: 52
+Ratchet and Clank: 52
+Citrus: 52
+Beelzebub/べるぜバブ: 51
+Final Destination: 51
++Anima: 51
+Alexander: 51
+Kingsman: The Secret Service: 51
+Stargate: Universe: 51
+The Santa Clause: 51
+Jumper: 51
+You're Beautiful/미남이시네요: 51
+Rainbow Six series: 51
+SSX Tricky: 51
+Ōkiku Furikabutte/Big Windup!/おおきく振りかぶって: 51
+Foster's Home for Imaginary Friends: 51
+Fushigiboshi no Futago Hime/ふしぎ星の☆ふたご姫: 51
+Doki Doki Literature Club: 51
+Sisters Grimm: 51
+Rocket Power: 51
+Ayashi no Ceres: 50
+Trolls: 50
+Monkees: 50
+Miss Peregrine's Home for Peculiar Children: 50
+Call the Midwife: 50
+Switched at Birth: 50
+Emma: 50
+Skylanders: 50
+Katawa Shoujo: 50
+Body of Proof: 50
+Yumeiro Pâtissière/夢色パティシエール: 50
+Mad Max: 50
+Tale Spin: 50
+Doc Martin: 50
+Jane Eyre: 50
+DRAMAtical Murder/ドラマティカル マーダー: 50
+Sakura Wars: 50
+World Only God Knows/神のみぞ知るセカイ: 50
+Amnesia: The Dark Descent: 50
+Hot Wheels: Battle Force 5: 50
+Splatoon: 50
+Demon Diary: 50
+EverQuest: 50
+Monster Rancher series/モンスターファーム: 49
+Armored Core: 49
+Hardcastle and McCormick: 49
+Kagerou Days/カゲロウデイズ: 49
+Spectacular Spider-Man: 49
+Secret Life of the American Teenager: 49
+L Word: 49
+Radio Free Roscoe: 49
+Wizard101: 49
+Over the Hedge: 49
+Green Rider: 49
+Silent Witness: 49
+Joan Of Arcadia: 49
+Osmosis Jones: 49
+10 Things I Hate About You: 49
+Legion: 49
+Worst Witch: 49
+I Am Number Four: 49
+American McGee's Alice: 49
+Jericho: 49
+Grim and Evil: 49
+Carmilla: 49
+Deus Ex: 49
+Cherub: 49
+North and South: 49
+Lazytown: 49
+Lupin III: 49
+So Weird: 49
+Dragon Booster: 48
+Itazura na Kiss: 48
+ElfQuest: 48
+1-800-Where-R-You: 48
+New Jedi Order: 48
+Mary Poppins: 48
+Future Diary/未来日記: 48
+PAW Patrol: 48
+Grand Chase: 48
+Finding Sky: 48
+Peaky Blinders: 48
+A Walk to Remember: 48
+Dirty Dancing: 48
+Little White Horse: 48
+Voyage to the Bottom of the Sea: 48
+Deadman Wonderland/デッドマン・ワンダーランド: 48
+House of Wax: 48
+Toontown: 48
+Air Gear: 48
+F.E.A.R.: 48
+Wolf Among Us: 48
+Corpse Bride: 48
+Early Edition: 48
+Kingdom Keepers: 48
+KonoSuba: God's Blessing on This Wonderful World: 48
+Fossil Fighters: 48
+Gunsmoke: 48
+Child's Play: 48
+Ib: 48
+Noir: 47
+Initial D: 47
+Wheel of Time: 47
+Shall we date?: Ninja Love: 47
+Horton Hears a Who: 47
+Just My Luck: 47
+Harper's Island: 47
+Final Fantasy XIV: 47
+Mr. Osomatsu/おそ松さん: 47
+Leviathan series: 47
+Dollanganger Saga: 47
+Avalon Web of Magic: 47
+Murdoch Mysteries: 47
+Wings of Fire, Tui T. Sutherland: 47
+Iron Man: Armored Adventures: 47
+Young Wizards: 47
+Casper: 47
+Black Jewels Trilogy: 47
+Avengers: Earth's Mightiest Heroes: 47
+Master and Commander: 47
+Biker Mice From Mars: 47
+Carrie: 47
+Black Magician Trilogy: 47
+Confessions of Georgia Nicolson: 47
+Orphan Black: 47
+Dragon Ball Super: 47
+Dance Central: 47
+Madam Secretary: 47
+Hitchhiker's Guide to the Galaxy: 47
+Galactik Football: 47
+Detroit: Become Human: 47
+Stardew Valley: 47
+Hollywood Heights: 47
+Littlest Pet Shop: 47
+Scott Pilgrim: 46
+World of Darkness: 46
+Kamisama Hajimemashita/神様はじめました: 46
+Shakugan no Shana: 46
+Keeper of the Lost Cities: 46
+Vampire: The Masquerade: 46
+Emmerdale: 46
+Christy: 46
+Longmire: 46
+Private: 46
+Wildfire: 46
+Dr. Horrible's Sing-Along Blog: 46
+Women of the Otherworld: 46
+Sabrina the Teenage Witch: 46
+Stoked: 46
+Greek: 46
+A.N.T. Farm: 46
+Fusion Fall: 46
+Mechwarrior/Battletech: 46
+Overlord: 46
+Hawaii Five-O: 46
+Hayate the Combat Butler: 46
+Barbie: 46
+Rayman: 46
+Courage:  The Cowardly Dog: 45
+Coco: 45
+Kamigami No Asobi/神々の悪戯: 45
+Xenoblade Chronicles: 45
+Lunar Chronicles: 45
+Virals: 45
+Port Charles: 45
+Brave, 2017: 45
+Professionals: 45
+Akagami no Shirayukihime: 45
+Banjo-Kazooie: 45
+Club penguin: 45
+Moon Child: 45
+Mystic Messenger: 45
+Mr. Peabody & Sherman: 45
+Kung Fu: The Legend Continues: 45
+Ace Combat: 45
+Kodomo No Omocha: 45
+M.I. High: 45
+In The Forests of the Night: 45
+Daughters of the Moon: 45
+Secret Garden: 44
+Starship: 44
+Ultra Maniac: 44
+Toradora!: 44
+NANA: 44
+Robin Hood: Prince of Thieves: 44
+Haunting in Connecticut: 44
+Baccano!: 44
+Buzz Lightyear of Star Command: 44
+Dead Like Me: 44
+Ever After: 44
+Royal Pains: 44
+Cyberchase: 44
+x-men: 44
+Lorien Legacies: 44
+Freezing/フリージング: 44
+Profiler: 44
+Psycho-Pass/サイコパス: 44
+Astro Boy: 44
+Epic: 44
+Saiunkoku Monogatari: 44
+Warframe: 44
+Tales of Phantasia: 43
+Shadowrun: 43
+Twisted: 43
+Green Lantern: The Animated Series: 43
+Strange Days at Blake Holsey High: 43
+100% Wolf: 43
+Popular: 43
+Doctor Blake Mysteries: 43
+Johnny the Homicidal Maniac: 43
+Punisher: 43
+Riddle Story of Devil/悪魔のリドル: 43
+Hanna is not a Boys Name: 43
+Final Fantasy Versus XIII: 43
+Last of the Mohicans: 43
+Frankenstein: 43
+Giver: 43
+Bloodlines Series, Richelle Mead: 43
+Huntik: Secrets & Seekers: 43
+Drake Chronicles: 43
+Tales of Legendia: 43
+Metal Fight Beyblade/メタルファイト ベイブレード: 43
+Heartland: 43
+Sherwood Smith: 43
+Kannazuki no Miko: 43
+A Cinderella Story: 43
+Shadow Hearts: 42
+District 9: 42
+Bold and the Beautiful: 42
+Trollhunters: 42
+Eureka Seven: 42
+Hell Girl: 42
+Cheers: 42
+Cause of Death: 42
+Perry Mason: 42
+Wonder Woman: 42
+Adventure Quest: 42
+Darksiders: 42
+Black Sails: 42
+Laramie: 42
+Young and the Restless: 42
+Cyborg 009: 42
+Vampire Princess Miyu: 41
+Scarlet Pimpernel: 41
+Crescent Moon: 41
+Rave Master: 41
+Tuck Everlasting: 41
+Z Nation: 41
+Dinotopia: 41
+Sleeping Beauty: 41
+Almost Human: 41
+Book of Mormon: 41
+Skullgirls: 41
+Last Tango in Halifax: 41
+Kekkaishi: 40
+Yowamushi Pedal/弱虫ペダル: 40
+Max Steel: 40
+That's So Raven: 40
+Septimus Heap: 40
+Who's the Boss?: 40
+Someone Like You: 40
+Tarzan: 40
+American Girl: 40
+Speed Racer: 40
+Losers: 40
+Relic Hunter: 40
+Blakes 7: 40
+Ring/Ringu: 40
+Rozen Maiden: 40
+Cruel Intentions: 40
+Goosebumps: 40
+Road Rovers: 40
+T.U.F.F. Puppy: 40
+Tales of Graces: 40
+Slugterra: 40
+Marmalade Boy: 39
+Graceland: 39
+Black Panther: 39
+Princess Protection Program: 39
+300: 39
+La Femme Nikita: 39
+Jeepers Creepers: 39
+Race to Witch Mountain: 39
+Wild Wild West: 39
+Madagascar: 39
+Inspector Gadget: 39
+Future Card Buddyfight/フューチャーカード バディファイト: 38
+Excel Saga: 38
+Secret of Moonacre: 38
+Monster Buster Club: 38
+Super 8: 38
+Yo-Kai Watch: 38
+Guyver: 38
+Gatchaman: 38
+Goonies: 38
+Lightning Returns: Final Fantasy XIII: 38
+Legend, Marie Lu: 38
+Everworld: 38
+Prometheus, 2012: 38
+Yuruyuri/ゆるゆり: 38
+Panty & Stocking with Garterbelt/パンティ＆ストッキングwithガーターベルト: 38
+Aldnoah Zero/アルドノア・ゼロ: 38
+Diabolik Lovers : Haunted Dark Bridal: 38
+Yandere Simulator: 37
+Radiata Stories: 37
+Lost In Space: 37
+Macross Frontier: 37
+Lovely Complex: 37
+Final Fantasy: Unlimited: 37
+Sound! Euphonium/響け！ユーフォニアム: 37
+Las Vegas: 37
+Remember the Titans: 37
+Little Women: 37
+Homeland: 37
+World War Z: 37
+Evil Within: 37
+Terraria: 37
+Faculty: 37
+Sammy Keyes: 37
+Scott & Bailey: 37
+Alice 19th: 37
+Motorcity: 37
+Intelligence: 37
+Karneval/カーニヴァル: 37
+Dark is Rising Sequence: 37
+Be My Princess: 37
+Chicago Med: 36
+Fantastic Four: 36
+Camp Camp: 36
+Ojamajo Doremi: 36
+Mummies Alive!: 36
+To Kill a Mockingbird: 36
+Dogma: 36
+Sliders: 36
+Outlander: 36
+Life: 36
+Earth 2: 36
+Toriko: 36
+Tenchu: 36
+Spirit: 36
+Modern Family: 36
+Remington Steele: 36
+Jupiter Ascending: 36
+Last Exile: 36
+Ghost and Mrs. Muir: 36
+Kick Buttowski: Suburban Daredevil: 36
+Bravely Default: 36
+Wander over Yonder: 36
+Persuasion: 36
+Tyrant Falls in Love/恋する暴君: 36
+Once Upon a Time in Wonderland: 35
+Batman v Superman: Dawn of Justice: 35
+Hyouka/氷菓: 35
+Man From U.N.C.L.E.: 35
+Nisekoi/ニセコイ: 35
+Perception: 35
+Detective School Q: 35
+Princess Princess: 35
+Dragon Heart: 35
+Rush, 2008: 35
+Young Guns: 35
+Sket Dance: 35
+Bob's Burgers: 35
+Robin of Sherwood: 35
+Alpha and Omega series: 35
+Spice and Wolf: 35
+Pushing Daisies: 35
+Space Cases: 35
+Evil Dead/Army of Darkness: 35
+Gaia Online: 35
+Dumping Ground, 2013: 35
+Secrets of the Immortal Nicholas Flamel: 35
+Monsters vs. Aliens: 35
+Heirs/왕관을 쓰려는자: 35
+Etrian Odyssey/世界樹の迷宮: 35
+Johnny Test: 34
+Die Hard: 34
+Bobobo-bo Bo-bobo: 34
+Grease: 34
+4400: 34
+Lab Rats: Elite Force: 34
+Fear the Walking Dead: 34
+Ginger Snaps: 34
+Charlie's Angels: The Movie: 34
+Parks and Recreation: 34
+Emperor's New Groove: 34
+Haunting Ground: 34
+Left Behind: 34
+Hangover: 34
+His and Her Circumstances: 34
+Hellraiser: 34
+A Clockwork Orange: 34
+Silverwing: 34
+Tiger's Curse Series: 34
+Home Improvement: 34
+Foyle's War: 34
+Baten Kaitos: 34
+Mirror's Edge: 34
+Uglies: 34
+Guardians of Time: 34
+H.I.V.E.: 34
+Kindred: The Embraced: 34
+Sing, 2016: 34
+Star Trek Online: 34
+Sherlock Holmes in the 22nd Century: 34
+Watch Dogs: 34
+Ballykissangel: 34
+Naked Brothers Band: 34
+Klonoa: 34
+Amazing Spiez!/SpieZ! Nouvelle Génération: 33
+Saber Marionette J: 33
+Blue Seed: 33
+Yin Yang Yo: 33
+Shinzo: 33
+OZ: 33
+Mako Mermaids: 33
+Kingdom of Heaven: 33
+Love Actually: 33
+Enid Blyton: 33
+Who Framed Roger Rabbit: 33
+Burst Angel: 33
+Warrior, 2011: 33
+New Tricks: 33
+Pirate101: 33
+Dark Cloud: 33
+Cal Leandros: 33
+Young Americans: 33
+HuniePop: 33
+Rango: 33
+Penny Dreadful: 33
+Nabari no Ō: 33
+Ocean's 11: 33
+Sora no Otoshimono/そらのおとしもの: 33
+Flint: The Time Detective: 33
+Warriors Orochi: 33
+Beauty Pop: 33
+Tactics: 32
+Snow White and the Seven Dwarfs: 32
+Peanuts: 32
+Mirage of Blaze: 32
+Mars: 32
+Pretty Guardian Sailormoon/美少女戦士 セーラームーン: 32
+Unnatural History: 32
+Borgias: 32
+Poltergeist: the Legacy: 32
+Standoff: 32
+Royals: 32
+American Idiot: 32
+Hitman: 32
+Human Target: 32
+Battle of the Planets: 32
+Karate Kid: 32
+Ni No Kuni: 32
+Twelve Kingdoms: 32
+Eagle, 2011: 32
+Mahouka Koukou no Rettousei/魔法科高校の劣等生: 32
+Magical Diary: 32
+Don't Starve: 32
+Sorceror Stabber Orphen: 31
+Incredible Hulk: 31
+Summer I Turned Pretty: 31
+Stitchers: 31
+I Didn't Do It: 31
+Legend of the Guardians: The Owls of Ga'Hoole: 31
+Book Thief: 31
+Sym-Bionic Titan: 31
+Muv-Luv/マブラヴ: 31
+Enchanted Forest: 31
+Shadow of the Colossus: 31
+Whitechapel: 31
+Avalon High: 31
+Liberty's Kids: 31
+Mabinogi: 31
+AcceleRacers: 31
+Alphas: 31
+Final Fantasy Agito XIII: 31
+Book of Life: 31
+Velvet Goldmine: 31
+Letter Bee/テガミバチ: 31
+Rainbow Brite: 30
+Rescue: Special Ops: 30
+Reaper: 30
+Star Trek: Discovery: 30
+Young Hercules: 30
+Parasite Eve: 30
+Unreal Tournament: 30
+Little Red Riding Hood: 30
+How to Get Away with Murder: 30
+Finding Nemo: 30
+Strange Angels, Lili St. Crow: 30
+Chihayafuru/ちはやふる: 30
+Red Canyon, 2008: 30
+Charlie's Angels: 30
+Sam & Cat: 30
+Lackadaisy: 29
+Gatekeepers: 29
+Little Busters/リトルバスターズ!: 29
+Spider Riders: 29
+Saki/咲: 29
+Star-Crossed: 29
+Where on Earth is Carmen Sandiego: 29
+Valvrave the Liberator/革命機ヴァルヴレイヴ: 29
+Nier: 29
+Green Street Hooligans: 29
+Ten Inch Hero: 29
+Ringer: 29
+Titanfall: 29
+Combat!: 29
+Three Ninja's: 29
+Miracle: 29
+IGPX: 29
+Pellinor: 29
+Shiver, Maggie Stiefvater: 29
+Malcolm in the Middle: 29
+Princess Bride: 29
+Playful Kiss/장난스런 키스: 29
+Brothers & Sisters: 29
+Ragnarok: 29
+Dance Dance Revolution: 29
+Muppet Show: 29
+Clock Tower: 29
+Mondaijitachi ga Isekai kara Kuru sou desu yo?: 29
+Mighty Med: 29
+Shiki: 29
+Monochrome Factor: 29
+Battle B-Daman: 28
+Monsuno: 28
+Last Remnant: 28
+Perfect Chemistry: 28
+Xenoblade Chronicles 2: 28
+Necessary Roughness: 28
+Three Musketeers: 28
+Following: 28
+Tomorrow People: 28
+Tomorrow People, 2013: 28
+Red Band Society: 28
+Henry Danger: 28
+Sin City: 28
+Bloodborne: 28
+28 Days Later: 28
+Metropolis: 28
+Stardust: 28
+Sukisho: 28
+Epic Mickey: 28
+Lone Ranger: 27
+Dinosaur King: 27
+Legend of Legaia: 27
+Okage: 27
+Chronicles of Ancient Darkness: 27
+Saved By The Bell: 27
+Warm Bodies, Isaac Marion: 27
+From Dusk Till Dawn: The Series: 27
+She-Ra, Princess of Power: 27
+Tru Calling: 27
+Pretty Little Liars series: 27
+Keys to the Kingdom: 27
+Shining Force: 27
+Ghost Rider: 27
+Children of the Corn: 27
+Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!: 27
+Eternal Sonata: 27
+Blue Dragon: 27
+Lurlene McDaniel: 27
+Lords of Dogtown: 27
+Bomberman: 27
+God of War: 26
+Mob Psycho 100/モブサイコ１００: 26
+Tower Prep: 26
+Vampire Game: 26
+Gifted: 26
+30 Rock: 26
+Lords Of The Underworld series: 26
+Law and Order: UK: 26
+Clash of the Titans, 2010: 26
+D.E.B.S.: 26
+Last Story: 26
+Moana: 26
+Even Stevens: 26
+British Comedy: 26
+Mana Khemia: Alchemists of Al-Revis: 26
+It's Always Sunny in Philadelphia: 26
+Luigi's Mansion: 26
+Red River/天は赤い河のほとり: 26
+Kimi ni Todoke/君に届け: 26
+Paradise Kiss: 26
+Drakengard: 26
+Under the Dome: 26
+Two Kinds: 26
+Love Live! Sunshine/ラブライブ！サンシャイン: 26
+El Hazard: 25
+Absolute Boyfriend: 25
+Dance Academy: 25
+Record of Lodoss War: 25
+Gundam Build Fighters/ガンダムビルドファイターズ: 25
+GTO: 25
+Army Wives: 25
+Prince of Egypt: 25
+Secret Adventures of Jules Verne: 25
+Wallander: 25
+Ghost Ship: 25
+Jungle Book: 25
+Godzilla: The Series: 25
+Tenkai Knights: 25
+Rat Patrol: 25
+Kevin Smith: 25
+Parappa the Rapper: 25
+Togainu no Chi/咎狗の血: 25
+Green Hornet: 25
+Dominion: 25
+Medical Investigation: 25
+Witch's House: 25
+Hanna-Barbera: 25
+Dragon Nest: 25
+Battlefield: 25
+Robin: 25
+3:10 to Yuma, 2007: 24
+Nadesico: 24
+Dr. Jekyll and Mr. Hyde: 24
+Akira: 24
+Brady Bunch: 24
+Judging Amy: 24
+Touken Ranbu/刀剣乱舞: 24
+Haibane Renmei: 24
+Sandman: 24
+Reign Of Fire: 24
+Royal: 24
+Another Cinderella Story: 24
+Women's Murder Club: 24
+2 Broke Girls: 24
+Kämpfer/けんぷファー: 24
+Lone Gunmen: 24
+Dredd: 24
+I Am Legend: 24
+SaGa Frontier: 24
+Dude, That's My Ghost!: 24
+Terry Brooks: 23
+Miles Vorkosigan: 23
+Roughnecks: 23
+My Little Monster/となりの怪物くん: 23
+Jane by Design: 23
+Wanted: 23
+Nodame Cantabile: 23
+Marvel vs Capcom: 23
+Oliver & Company: 23
+Hellcats: 23
+Gakuen Heaven: 23
+Guilty Crown/ギルティクラウン: 23
+Kill Bill: 23
+Vagrant Story: 22
+Lunar:  Eternal Blue: 22
+Voyagers!: 22
+Fate/Grand Order: 22
+Strange Magic: 22
+Next Avengers: Heroes of Tomorrow: 22
+Nip/Tuck: 22
+Demonata: 22
+Into the Woods: 22
+Red Riding Hood, 2011: 22
+Jedi Knight: 22
+Push: 22
+Hustle: 22
+Twilight Zone: 22
+Hemlock Grove: 22
+Next to Normal: 22
+Saddle Club: 22
+Legend: 22
+Yu-Gi-Oh! VRAINS: 22
+Liv and Maddie: 22
+Ginga series: 22
+Men In Black: 22
+Jessica Jones: 22
+Winnie-the-Pooh: 21
+Garfield: 21
+Megan Meade's Guide to the McGowan Boys: 21
+Turn: 21
+Night in the Woods: 21
+Night Huntress series: 21
+Re-Animator: 21
+OFF: 21
+Swan Princess: 21
+The Thing: 21
+Tom Clancy: 21
+Captain Scarlet: 21
+Red Dawn: 21
+Greatest American Hero: 21
+Fragile Dreams: 21
+Rival Schools: 20
+Injustice: Gods Among Us: 20
+Day After Tomorrow: 20
+Melissa & Joey: 20
+Lunar:  Silver Star: 20
+Fatal Fury: 20
+xXx: 20
+Homicide: Life on the Streets: 20
+Dengeki Daisy/電撃デイジー: 20
+101/102 Dalmatians: 20
+Zombie-Loan: 20
+Crusade: 20
+Superjail!: 20
+GunSmith Cats: 20
+Batman/Superman Adventures: 19
+Beka Cooper series: 19
+Fever Series: 19
+Blues Brothers: 19
+Pita Ten: 19
+Dear Evan Hansen: 19
+Midsomer Murders: 19
+House of 1000 Corpses/Devil's Rejects: 19
+Signs: 19
+Sonic Boom: 19
+Zombies: 19
+Blue Water High: 19
+28 Weeks Later: 19
+Fastlane: 19
+Cute High Earth Defense Club Love/美男高校地球防衛部LOVE: 19
+Tales of Zestiria: 19
+Hot Gimmick: 19
+Inu × Boku SS/妖狐×僕SS: 18
+You're Under Arrest: 18
+Hero: 108: 18
+Ultraman: 18
+Ender's Game series: 18
+Jade Empire: 18
+I'm in the Band: 18
+Dogs: 17
+Hocus Pocus: 17
+Never Back Down: 17
+Law of Ueki: 17
+Laurie R. King: 17
+Mad Father: 17
+Baby Daddy: 17
+Boston Public: 17
+Monty Python: 16
+Spy Kids: 16
+Fraggle Rock: 16
+Queen's Blade/クイーンズブレイド: 16
+Troop: 16
+Kiss Kiss Bang Bang: 16
+Fox and the Hound: 16
+Dexter's Laboratory: 16
+Tales of the World: Radiant Mythology: 16
+Amnesia/アムネシア: 16
+Arpeggio of Blue Steel/蒼き鋼のアルペジオ: 16
+American Dad: 16
+Horseland: 15
+Gorgeous Carat: 15
+Priest: 15
+Venture Brothers: 15
+Monster Allergy: 15
+Pacific: 15
+Black Donnellys: 15
+Sucker Punch: 15
+Thick of It: 15
+Treasure Island: 15
+Monster: 14
+Enchanted: 14
+Poldark: 14
+Lady and the Tramp: 14
+Smite: 13
+A Bugs Life: 13
+Sons Of Thunder: 12
+Trickster series: 10

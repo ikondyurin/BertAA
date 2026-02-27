@@ -1,0 +1,100 @@
+﻿Layer;Head;Direction;Important Tokens;Types of Important Tokens;Strength of attention;Scope;Coverage (one text or both)
+1;1;To CLS;Names, subword tokens (all), topical nouns;Content words, subword tokens;Moderately strong;Global;Both
+1;2;To CLS;Names, subword tokens (all), topical nouns, narrational verbs;Content words, subword tokens;Strong;Global;Both
+1;5;To CLS;Names, subword tokens (initial);Content words, subword tokens;Moderately strong;Global;Both
+1;7;Between tokens (between non-narrational verbs);Non-narrational verbs;Content words, subword tokens;Moderately strong;Large;Both
+1;9;Between tokens (narrational verbs and full/short form variations);Narrational verbs, full/short form variations;Content words, special function words;Moderately strong;Local;Both
+1;9;To CLS;Names, words co-referring to named persons;Content words;Moderately strong;Global;Both
+2;7;To CLS;Subword tokens (non-initial), prepositions;Function words, subword tokens;Moderately strong;Global;Both
+2;9;To CLS;Names, stylistically variable words, in-word mistakes;Content words, subword tokens, function words, mistakes;Moderately strong;Global;Both
+2;10;To CLS;Names, stylistically variable words, diatopic variations;Content words, subword tokens, function words, mistakes;Moderately strong;Global;Both
+3;1;To CLS;Names, stylistically variable set phrases;Content words, set phrases;Moderately strong;Global;Both
+3;4;From CLS;Names, verbs related to names, quotes ;Content words, punctuation;Moderately strong;Global;Both
+3;5;To CLS;Topical nouns, subword tokens (all), full stops, quotes;Content words, subword tokens, punctuation;Moderately strong;Global;Both
+3;5;From CLS;Uniform attention;Uniform attention;Weak;Global;Both
+3;5;Between tokens (words to punctuation);Full stops, commas, quotes, question marks, other punctuation;Punctuation;Moderately strong;Local;Both
+3;6;Between tokens (identity relation);Subword tokens, prepositions, wh-words, pronouns, in-word mistakes;Function words, subword tokens, mistakes;Strong;Large;Both
+3;9;To CLS;Infrequent narrational verbs, stylistically variable set phrases, topical nouns, other verbs;Content words, set phrases;Strong;Large;Both
+3;10;Between subword tokens;Names, in-word mistakes, abbreviations;Subword tokens;Moderately strong;Neighbor;Both
+3;12;From CLS;Narrational verbs, punctuation;Content words, punctuation;Moderately strong;Global;Both
+4;1;Between tokens (narrational verbs and quotes);Narrational verbs, quotes;Content words, punctuation;Moderately strong;Local;Both
+4;2;From CLS;Names, narrational verbs, stylistically variable words, diatopic variations, full/short form variations, infrequent words, various mistakes, obscene words, numbers;Content words, special function words, mistakes, numbers;Moderately strong;Large;First
+4;2;Between tokens (punctuation);Punctuation;Punctuation;Moderately strong;Global, but stronger locally;Both
+4;3;From CLS;Names, narrational verbs, stylistically variable words, diatopic variations, full/short form variations, infrequent words, various mistakes, obscene words, numbers;Content words, special function words, mistakes, numbers;Moderately strong;Large;Second
+4;3;"Between tokens (""important"" words attended by other tokens)";Names, narrational verbs, stylistically variable words, diatopic variations, full/short form variations, infrequent words, various mistakes, obscene words, numbers;Content words, special function words, mistakes, numbers;Moderately strong;Medium;Both
+4;4;From CLS;Names, topical nouns;Content words;Moderately strong;Global;Both
+4;8;Between tokens (identity relation);Subword tokens, prepositions, wh-words, pronouns, in-word mistakes;Function words, subword tokens, mistakes;Strong;Large;Both
+4;9;From CLS;Uniform attention (end of Text 1);Uniform attention;Weak;Local;First
+4;12;To CLS;Names, punctuation;Content words, punctuation;Strong;Global;Both
+5;2;From CLS;Names, narrational verbs, stylistically variable words, diatopic variations, full/short form variations, infrequent words, various mistakes, obscene words, numbers;Content words, special function words, mistakes, numbers;Moderately strong;Large;Second
+5;5;From CLS;Names;Content words;Moderately strong;Large;Second
+5;5;Between tokens (full/short form variations);Full/short form variations;Function words;Moderately strong;Large;Both
+5;7;From CLS;Names, topical nouns;Content words;Moderately strong;Large;First
+5;7;Between tokens (words in utterance and quotes);Quotes;Punctuation;Moderately strong;Local;Both
+5;10;From CLS;Names;Content words;Moderately strong;Large;Second
+5;11;From CLS;Pronouns, conjunctions, full/short form variations, punctuation;Function words, punctuation;Moderately strong, instance-specific;Large;Second
+5;12;From CLS;Punctuation;Punctuation;Weak;Large;Second
+6;6;Between tokens (punctuation and function words);Pronouns, auxiliary verbs, punctuation;Function words, punctuation;Moderately strong;Medium;Both
+6;7;From CLS;Names, numbers;Content words, numbers;Weak;Large;Second
+6;9;From CLS;Names;Content words;Weak;Large;Second
+6;10;From CLS;Names;Content words;Strong, instance-specific;Large;Second
+7;1;From CLS;Names;Content words;Moderately strong;Large;First
+7;7;Between tokens (conditional clauses, appositive clauses and direct speech);Conjunctions, wh-words, modal verbs, narrational verbs, quotes, commas, colons;Content words, function words, punctuation;Strong;Local;Both
+7;8;Between subword tokens;Names, in-word mistakes, abbreviations;Subword tokens;Strong;Neighbor;Both
+7;9;From CLS;Names, narrational verbs, stylistically variable words, diatopic variations, full/short form variations, infrequent words, various mistakes, obscene words, numbers, punctuation;Content words, special function words, mistakes, numbers, punctuation;Moderately strong;Large;First
+7;11;Between tokens (set phrases, objects with attributes, compound words with hyphens);Pronouns, verbs, hyphens, other words;Set phrases, compound words;Very strong;Neighbor;Both
+7;12;From CLS;Names;Content words;Moderately strong;Large;Second
+8;1;Between tokens (punctuation and function words);Casing mistakes;Mistakes;Strong, instance-specific;Local;Both
+8;2;Between tokens (punctuation and function words);Ellipsis (three dots), conjunctions, full/short form variations, pronouns, names;Content words, function words, punctuation;Strong, instance-specific;Local;Both
+8;3;Between tokens (narrational verbs and quotes);Narrational verbs, quotes, wh-words;Content words, function words, punctuation;Strong;Large;Both
+8;4;From CLS;Names, narrational verbs;Content words;Moderately strong;Large;Second
+8;6;From CLS;Names;Content words;Strong;Large;Second
+8;6;"Between tokens (""important"" words attended by other tokens)";Names, narrational verbs, stylistically variable words, diatopic variations, full/short form variations, infrequent words, various mistakes, obscene words, numbers, punctuation;Content words, special function words, mistakes, numbers, punctuation;Moderately strong;Medium;Both
+8;11;From CLS;Names;Content words;Moderately strong;Large;Second
+8;12;From CLS;Quotes;Punctuation;Moderately strong, instance-specific;Global;Both
+9;3;Between tokens (punctuation and function words);Ellipsis (three dots), modal verbs, various function words, quotes;Function words, punctuation;Moderately strong;Large;Both
+9;4;From CLS;Names, punctuation, pronouns;Content words, function words, punctuation;Strong;Global;Both, but mainly second
+9;6;From CLS;Names;Content words;Moderately strong;Global;Both
+9;7;Between tokens (punctuation and function words to verbs);Auxiliary verbs, frequent verbs, narrational verbs, rare verbs, punctuation;Content words, function words, punctuation;Moderately strong;Large;Both
+9;8;From CLS;Conjunctions, prepositions, adverbs;Function words;Moderately strong;Large;Second
+9;9;From CLS;Names;Content words;Strong, instance-specific;Global;Both
+9;11;From CLS;Names, punctuation;Content words, punctuation;Strong;Large;Second
+9;11;Between tokens (verbs to punctuation and function words);Full stops, commas, question marks, other punctuation, verbs, prepositions;Content words, function words, punctuation;Moderately strong;Local;Both
+9;12;From CLS;Names;Content words;Moderately strong;Global;Both
+10;1;From CLS;Quotes, full stops;Punctuation;Moderately strong;Global;Both
+10;2;From CLS;Names;Content words;Moderately strong;Global;Both
+10;3;From CLS;Names, quotes;Content words, punctuation;Moderately strong;Large;Second
+10;4;From CLS;Names, verbs related to names;Content words;Strong;Large;Second
+10;4;Between tokens (punctuation, function words and names to  function words);Auxiliary verbs, conjunctions, names, punctuation;Content words, function words, punctuation;Moderately strong;Medium;Both
+10;5;From CLS;Full stops, pronouns, names;Content words, function words, punctuation;Moderately strong;Global;Both
+10;5;Between tokens (names to pronouns) ;Names, pronouns;Content words, function words;Moderately strong;Medium;Both
+10;6;From CLS;Full stops;Punctuation;Moderately strong;Global;Both
+10;7;From CLS;Verbs;Content words;Moderately strong, instance-specific;Global;Both
+10;8;From CLS;Full stops, pronouns, adverbs, verbs;Content words, function words, punctuation;Moderately strong, instance-specific;Global;Both
+10;9;From CLS;Names, punctuation;Content words, punctuation;Moderately strong, instance-specific;Large;Second
+10;10;From CLS;Names;Content words;Moderately strong;Large;Second
+10;11;From CLS;Names, verbs related to names;Content words;Moderately strong, instance-specific;Large;Second
+10;12;From CLS;Full stops, commas, prepositions, names;Content words, function words, punctuation;Moderately strong;Global;Both
+11;1;From CLS;Names, narrational verbs, stylistically variable words, diatopic variations, full/short form variations;Content words, function words;Moderately strong;Global;Both
+11;2;From CLS;Names, adverbs, prepositions, pronouns, rare punctuation;Content words, function words, punctuation;Moderately strong;Global;Both
+11;3;From CLS;Full stops;Punctuation;Moderately strong;Global;Both
+11;4;From CLS;Full stops;Punctuation;Moderately strong;Global;Both
+11;5;From CLS;Full stops;Punctuation;Moderately strong;Global;Both
+11;6;From CLS;Full stops, pronouns, names;Punctuation;Moderately strong, instance-specific;Global;Both
+11;7;From CLS;Full stops, pronouns, names;Punctuation;Moderately strong, instance-specific;Global;Both
+11;8;From CLS;Names, punctuation, pronouns;Content words, function words, punctuation;Moderately strong, instance-specific;Global;Both
+11;9;From CLS;Names, pronouns;Content words, function words;Moderately strong, instance-specific;Large;Second
+11;10;From CLS;Names, narrational verbs, adverbs, pronouns, conjunctions, grammatical affixes, full stops, rare punctuation;Content words, subword tokens, function words, punctuation;Moderately strong, instance-specific;Global;Both, but mainly first
+11;11;From CLS;Names, narrational verbs, adverbs, pronouns, conjunctions, grammatical affixes, full stops, rare punctuation;Content words, subword tokens, function words, punctuation;Strong, instance-specific;Global;Both, but mainly first
+11;12;From CLS;Names, pronouns, adverbs, punctuation;Content words, function words, punctuation;Moderately strong, instance-specific;Global;Both, but mainly second
+12;1;From CLS;Names, narrational verbs, punctuation;Content words, punctuation;Moderately strong, instance-specific;Global;Both, but mainly first
+12;2;From CLS;Full stops, other punctuation, names;Content words, punctuation;Moderately strong, instance-specific;Global;Both
+12;3;From CLS;Narrational verbs, function words, punctuation, uniform attention (certain regions) ;Content words, function words, punctuation, uniform attention;Moderately strong, instance-specific;Large;Second
+12;4;From CLS;Narrational verbs, function words, punctuation;Content words, function words, punctuation;Moderately strong, instance-specific;Large;First
+12;5;From CLS;Narrational verbs, function words, punctuation;Content words, function words, punctuation;Weak;Global;Both
+12;6;From CLS;Names, narrational verbs, punctuation;Content words, punctuation;Moderately strong;Global;Both
+12;7;From CLS;Names, topical nouns;Content words;Strong;Large;First
+12;8;From CLS;Names, topical nouns;Content words;Moderately strong;Global;Both
+12;10;From CLS;Names, topical nouns, narrational verbs, stylistically variable words, diatopic variations, full/short form variations, infrequent words, various mistakes, punctuation;Content words, special function words, mistakes, punctuation;Moderately strong;Global;Both
+12;11;From CLS;Names, topical nouns, narrational verbs, stylistically variable words, diatopic variations, full/short form variations, infrequent words, various mistakes, punctuation;Content words, special function words, mistakes, punctuation;Weak, instance-specific;Global;Both
+12;12;From CLS;Full stops OR Names, topical nouns, narrational verbs, stylistically variable words, diatopic variations, full/short form variations;Content words, special function words, punctuation;Moderately strong, instance-specific;Global;Both
