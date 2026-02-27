@@ -6,8 +6,8 @@ import torch
 def show_head_view(segm00):
 
     model_version = 'bert-base-cased'
-    model = transformers.AutoModelForSequenceClassification.from_pretrained(r"C:\Users\ivank\Documents\BERT_projects\BERT\results_45000\checkpoint-225000", output_attentions=True).eval()
-    tokenizer = transformers.AutoTokenizer.from_pretrained(r"C:\Users\ivank\Documents\BERT_projects\BERT\results_45000\checkpoint-225000")
+    model = transformers.AutoModelForSequenceClassification.from_pretrained(r"..\BertAA_content\Model\Checkpoints\results_45000\checkpoint-225000", output_attentions=True).eval()
+    tokenizer = transformers.AutoTokenizer.from_pretrained(r"..\BertAA_content\Model\Checkpoints\results_45000\checkpoint-225000")
     text1, text2 = segm00.split("[SEP]")
     inputs = tokenizer(text1, text2, truncation=True, padding='max_length', max_length=255, return_tensors='pt')
 
